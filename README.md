@@ -1,6 +1,6 @@
 ### Anaf Naufalian 🔥
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kafri8889.kafri8889)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kafri8889)
 ![last commit](https://img.shields.io/github/last-commit/kafri8889/kafri8889)
 
 hello i'm Anaf Naufalian, i'm an **Android Developer** 📱, currently living in 🇮🇩 Indonesia
