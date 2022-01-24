@@ -43,7 +43,7 @@ hello i'm Anaf Naufalian, i'm an **Android Developer** 📱, currently living in
 
 **My Activity**
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=kafri8889&custom_title=Anaf%20Naufalian's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graphs.herokuapp.com/graph?username=kafri8889&custom_title=Anaf%20Naufalian's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 📈 my github stats
