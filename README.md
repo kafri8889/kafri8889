@@ -9,7 +9,7 @@
 <a href="https://twitter.com/anafthdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anafthdev_" height="30" width="40" /></a>
 <a href="https://instagram.com/naphl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naphl_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eunhaeonnie8889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anaf naufalian" height="30" width="40" /></a>
- <a href="[https://www.hackerrank.com/eunhaeonnie8889](https://www.linkedin.com/in/anaf-naufalian-0b8385267/)" target="blank"><img align="center" src="https://github.com/kafri8889/kafri8889/blob/main/linkedin.svg" alt="anaf naufalian" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/anaf-naufalian-0b8385267" target="blank"><img align="center" src="https://github.com/kafri8889/kafri8889/blob/main/linkedin.svg" alt="anaf naufalian" height="30" width="40" /></a>
 </p>
 
 hello i'm Anaf Naufalian, i'm an **Android Developer** 📱, currently living in 🇮🇩 Indonesia
