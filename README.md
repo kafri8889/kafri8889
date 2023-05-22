@@ -19,9 +19,9 @@ hello i'm Anaf Naufalian, i'm an **Android Developer** 📱, currently living in
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kafri8889" alt="kafri8889" /></a> </p>
 
-**My Activity**
+**Leetcode**
 
-[![activity graph](https://github-readme-activity-graphs.herokuapp.com/graph?username=kafri8889&custom_title=Anaf%20Naufalian's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/kafri8889/github-readme-activity-graph)
+![](https://leetcard.jacoblin.cool/kafri8889?border=0&radius=20&ext=activity)
 
 
 **My github stats**
