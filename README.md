@@ -15,6 +15,8 @@
 
 hello i'm Anaf Naufalian, i'm an **Android Developer** 📱, currently living in 🇮🇩 Indonesia
 
+<a href="https://app.daily.dev/anafthdev_"><img src="https://api.daily.dev/devcards/a798f8734cbf409e9692f7cbed8cefa9.png?r=9s4" width="400" alt="Anaf Naufalian's Dev Card"/></a>
+
 ### Languages and Tools 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
