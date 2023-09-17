@@ -14,6 +14,7 @@
 </p>
 
 hello i'm Anaf Naufalian, i'm an **Android Developer** 📱 currently living in 🇮🇩 Indonesia, [Portfolio](https://kafri8889.github.io/)
+
 <a href="https://app.daily.dev/anafthdev_"><img src="https://api.daily.dev/devcards/a798f8734cbf409e9692f7cbed8cefa9.png?r=9s4" width="400" alt="Anaf Naufalian's Dev Card"/></a>
 
 ### Languages and Tools 
