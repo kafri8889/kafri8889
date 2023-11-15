@@ -28,7 +28,7 @@ hello i'm Anaf Naufalian (Male), i'm an **Android Developer** 📱 currently liv
 
 
 ### My github stats
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=kafri8889&count_private=true&show_icons=true&theme=radical" />
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=kafri8889&count_private=true&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kafri8889&show_icons=true&locale=en&layout=compact" alt="kafri8889" /></p>
 
