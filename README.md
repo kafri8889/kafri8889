@@ -1,7 +1,5 @@
 ### Anaf Naufalian 🔥
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kafri8889)
-![last commit](https://img.shields.io/github/last-commit/kafri8889/kafri8889)
 <p align="left"> <a href="https://twitter.com/anafthdev_" target="blank"><img src="https://img.shields.io/twitter/follow/anafthdev_?logo=twitter&style=for-the-badge" alt="anafthdev_" /></a> </p>
 
 ### Connect with me
